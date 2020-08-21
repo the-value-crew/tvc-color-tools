@@ -17,3 +17,7 @@ npm run serve
 // build
 npm run build
 ```
+
+## Todos
+- [ ] Fix color palette https issue
+- [ ] Add custom blog post for Color Psychology
